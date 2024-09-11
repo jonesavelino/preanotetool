@@ -1,4 +1,4 @@
-# preanotetool
+# PREAnoTeTool
 PREAnoTeTool é um protótipo de software baseado na abordagem PREAnoTe e tem o objetivo de pré-anotar um corpus baseado em glossários, utilizando o metamodelo Command and Control Relations Metamodel (C2RM) da abordagem IDEA-C2.
 
 # Descrição do Projeto

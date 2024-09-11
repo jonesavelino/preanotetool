@@ -28,7 +28,7 @@ Este projeto possui as seguintes dependências:
 - 2.1) Etapa 1: Pré-anotação - Gerar arquivos JSONL para curadoria no Doccano (Pre-Anotacao.ipynb);
 - 2.2) Etapa 2: Recuperar documentos curados no Doccano (JSONL) para gerar arquivo .SpaCy (ConverterDoccanoSpacy3-2.ipynb);
 - 2.3) Etapa 3: Avaliar a acurácia da pré-anotação (accuracy.ipynb), comparando uma fatia do corpus anotado manualmente com o pré-anotado.
-- 2.4) Gerar os dados de JSONL para grafo RDF Turtle (.ttl) e realizar consultas por meio da linguagem SPARQL  (graph_v2.ipynb)
+- 2.4) Gerar os dados de JSONL para grafo RDF Turtle (.ttl) e realizar consultas por meio da linguagem SPARQL  (graph_v2.ipynb).
 
 # Agradecimentos
 - Agradecemos ao CNPq - Conselho Nacional de Desenvolvimento Científico e Te\-cnológico, e ao IME - Instituto Militar de Engenharia, pelo apoio através de bolsa de iniciação científica (PIBIC Edital 2023/2024), e à FINEP/DCT/FAPEB (nº 2904/20-01.20.0272.00), pelo apoio ao Projeto "Sistemas de Sistemas de Comando e Controle".

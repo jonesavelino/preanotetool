@@ -13,13 +13,13 @@ Este projeto possui as seguintes dependências:
 
 - [Python 3.10.12] (https://www.python.org/downloads/release/python-31012/) linguagem de programação para rodar as bibliotecas e desenvolvimento.
 - [Google Colab Pro] é um ambiente que oferece essa abordagem de Notebooks cujo objetivo é rodar códigos escritos em Python.
-- [GraphDB 9.11] (https://www.ontotext.com/products/graphdb/graphdb-free/) é um banco de dados para lidar com Grafos que permite a manipulação de dados baseados em Grafos RDF e utiliza a linguagem SPARQL para recuperação e processamento de consultas. Além disso, é uma ferramenta que possibilita a descoberta de conhecimento a partir de inferências das relações dos recursos.
 
 - Bibliotecas: 
 - [SpaCy 3.5] é uma biblioteca de aprendizado de máquina.  
 - [Pipeline] pt_core_news_sm (https://spacy.io/models/pt)
 - [Arquitetura] spacy-transformers.TransformerModel.v3 (https://spacy.io/universe/project/spacy-transformers)
 - [Modelo de linguagem] neuralmind/bert-base-portuguese-cased (https://github.com/neuralmind-ai/portuguese-bert)
+- [RDFLib] - Biblioteca em Python puro para trabalhar com RDF (extensões RDF, N3 e TTL)
 
 # Experimento
 - Para executar o experimento é importante seguir o passo a passo das ações do caderno do projeto.

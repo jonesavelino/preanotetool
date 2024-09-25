@@ -12,7 +12,7 @@ Projeto de pesquisa acadêmica para pré-anotar corpora com o intuito de realiza
 Este projeto possui as seguintes dependências:
 
 - [Python 3.10.12] (https://www.python.org/downloads/release/python-31012/) linguagem de programação para rodar as bibliotecas e desenvolvimento.
-- [Google Colab Pro] é um ambiente que oferece essa abordagem de Notebooks cujo objetivo é rodar códigos escritos em Python.
+- [Google Colab Pro] é um ambiente que oferece  Notebooks cujo objetivo é rodar códigos escritos em Python.
 
 # Bibliotecas: 
 - [SpaCy 3.5] é uma biblioteca de aprendizado de máquina.  

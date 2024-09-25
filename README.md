@@ -20,6 +20,9 @@ Este projeto possui as seguintes dependências:
 - [Arquitetura] spacy-transformers.TransformerModel.v3 (https://spacy.io/universe/project/spacy-transformers)
 - [Modelo de linguagem] neuralmind/bert-base-portuguese-cased (https://github.com/neuralmind-ai/portuguese-bert)
 - [RDFLib] - Biblioteca em Python puro para trabalhar com RDF (extensões RDF, N3 e TTL)
+- [Graphviz] - Biblioteca que permite visualizar os grafos RDF visualmente. (https://pypi.org/project/graphviz/)
+- [PyPDF2] - Biblioteca PDF capaz de dividir, mesclar, cortar e transformar as páginas de arquivos PDF. (https://pypi.org/project/PyPDF2/)
+- [PyDotPlus] - Biblioteca em Python com a evolução do pydot que fornece uma interface Python para a linguagem Dot do Graphviz. (https://pypi.org/project/pydotplus/)
 
 # Experimento
 - Para executar o experimento é importante seguir o passo a passo das ações do caderno do projeto.

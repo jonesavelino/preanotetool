@@ -37,5 +37,5 @@ Este projeto possui as seguintes dependências:
 - Agradecemos ao CNPq - Conselho Nacional de Desenvolvimento Científico e Te\-cnológico, e ao IME - Instituto Militar de Engenharia, pelo apoio através de bolsa de iniciação científica (PIBIC Edital 2023/2024), e à FINEP/DCT/FAPEB (nº 2904/20-01.20.0272.00), pelo apoio ao Projeto "Sistemas de Sistemas de Comando e Controle".
 
 # Trabalhos e publicações
-- AVELINO, Jones O.; ROSA, Giselle F.; DANON, Gustavo R.; CORDEIRO, Kelli F.; C. CAVALCANTI, Maria. PREAnoTe: Uma abordagem de anotação de corpus para o ajuste fino de Large Language Model pré-treinado. In: SIMPÓSIO BRASILEIRO DE BANCO DE DADOS (SBBD), 39. , 2024, Florinópolis. (Artigo aceito e ainda não publicado).
-- Página do simpósio: https://sbbd.org.br/2024/artigos-curtos/
+- AVELINO, Jones O.; ROSA, Giselle F.; DANON, Gustavo R.; CORDEIRO, Kelli F.; C. CAVALCANTI, Maria. PREAnoTe: Uma abordagem de anotação de corpus para o ajuste fino de Large Language Model pré-treinado. In: SIMPÓSIO BRASILEIRO DE BANCO DE DADOS (SBBD), 39. , 2024, Florianópolis. 
+- Página do simpósio: https://sol.sbc.org.br/index.php/sbbd/article/view/30750
